@@ -1,0 +1,67 @@
+GİT ve GİTHUB
+---------------------------------------------
+*ls: içerisinde bulunduğuz klasörü görüntülememizi sağlar.
+
+*pwd:  güncel olarak bulunduğum klasörü göster.
+
+*cd ........... : boşluğa yazdığım klasöre giderim.
+
+*cd .. : bir önceki klasöre geri gel demektir.
+
+*clear: ekranı temizlemek anlamına gelir.
+
+*mkdir: klasör oluşturma.
+
+*touch .......... : herhangi bir uzantı da dosya olusturmamızı sağlar.
+
+*rm(remove=kaldır): dosya silme, kaldırma işlemi için kullanılır.
+
+*rm -rf ...... : klasör silme işlemi için kullanılır.
+
+*git config --global user.name "dfkgjdkflgn": isim değiştirme komutu.
+
+*git config --global user.email "dşkfgldıuf": email değiştirme komutu.
+
+*git status: güncel git durumu gösterir.
+
+*git init: üzerinde çalıştığımız klsörle git arasında bağlantı kurmamızı sağlar.   
+
+*ls -la: gizli klasörleri de göstermemizi sağlar.
+
+*git add ........... : commit atmadan önce commit atacağımız dosyayı eklemek(bu doğru 
+tanım olmadı daha güzel açıklicam.)
+
+*git add . : bütün dosyaları commite hazır hale getirir.
+
+*git log: atılan commitlerin bilgisini bize verir.
+
+*git branch: güncel branchleri görmemizi sağlar.
+
+*git branch ............ : yeni bir branch yaratmamıza olanak sağlar.
+
+*git switch ............ : başka branchlere geçiş yapmamızı sağlar.
+
+*git merge feature : brachleri birleştirmemizi sağlar (içinde 
+bulunduğumuz branhin(örn master) üstüne feature branchini ekler).
+
+*git restore ........ : en son atılan committe klasör ne durumda ise o haline geri getirilir
+klasör içeriği.
+
+*git stash: elimizde var olan bir veriyi, bilgiyi saklamak demektir(klasör içinde görünmez 
+istediğimiz zaman istediğimiz yerde tekrar kullanabiliriz bu bligiyi tekrar).
+
+*git stash pop: stashlediğimiz bir bilgiyi uygulamak istediğimiz yere geri çağırmak demektir.
+
+*git stash list: stash edilen verileri görmemizi, listelememizi sağlar.
+
+
+
+
+
+
+
+
+
+
+
+
